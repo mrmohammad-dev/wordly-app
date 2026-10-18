@@ -1,13 +1,13 @@
 # Wordly 📚
 
-> A simple and focused vocabulary learning app powered by spaced repetition.
-
-> یک اپلیکیشن ساده و متمرکز برای یادگیری واژگان با سیستم مرور فاصله‌دار.
+> A focused vocabulary-learning app with spaced repetition.
+>
+> یک اپلیکیشن یادگیری واژگان با سیستم مرور فاصله‌دار.
 
 <p align="center">
 
-[![Android](https://img.shields.io/badge/Android-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/mrmohammaddev/wordly-app/releases)
-[![GitHub Release](https://img.shields.io/github/v/release/mrmohammaddev/wordly-app?style=for-the-badge)](https://github.com/mrmohammaddev/wordly-app/releases)
+[![Android APK](https://img.shields.io/badge/Android-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/mrmohammad-dev/wordly-app/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/mrmohammad-dev/wordly-app?style=for-the-badge)](https://github.com/mrmohammad-dev/wordly-app/releases/latest)
 
 </p>
 
@@ -15,70 +15,52 @@
 
 # 🇬🇧 English
 
-## About Wordly
+## About
 
-**Wordly** is a vocabulary learning application designed to make learning new words easier, smarter, and more consistent.
+**Wordly** is a vocabulary-learning app designed to help learners save new words, review them regularly, and build consistent study habits.
 
-With Wordly, you can save new words, review them at the right time, and improve your long-term memory using a spaced repetition system.
+## Features
 
-The goal is simple: focus on learning without unnecessary complexity.
+- Vocabulary management
+- Spaced-repetition review
+- Review reminders
+- Word pronunciation through Text-to-Speech
+- Light and dark themes
+- Persian and right-to-left interface support
+- Learning progress tracking
+- Local/offline data storage
+- Android app experience
 
----
+## Download
 
-## ✨ Features
+- **Latest release:** [View release notes and downloads](https://github.com/mrmohammad-dev/wordly-app/releases/latest)
+- **Direct APK for v0.2.0:** [wordly_v0.2.0.apk](https://github.com/mrmohammad-dev/wordly-app/releases/download/v0.2.0/wordly_v0.2.0.apk)
+- **All releases:** [GitHub Releases](https://github.com/mrmohammad-dev/wordly-app/releases)
 
-- 📚 Vocabulary management
-- 🧠 Spaced repetition learning system
-- ⏰ Smart review scheduling
-- 🔊 Word pronunciation with Text-to-Speech
-- 🔔 Review reminder notifications
-- 🌙 Light and dark mode
-- 📱 Mobile-friendly interface
-- 🇮🇷 Persian RTL support
-- 📊 Learning progress tracking
-- 💾 Offline local storage
-- 🚀 Native Android experience
+Install only a package obtained from the official project release page. As this is an early version, some bugs or unexpected behavior may occur.
 
----
-
-## 📱 Download
-
-The latest Android APK is available in the GitHub Releases section.
-
-⬇️ **Download Wordly:**
-
-https://github.com/mrmohammaddev/wordly-app/releases
-
-Download the APK, install it on your Android device, and start learning.
-
----
-
-## 🖼️ Screenshot
+## Screenshot
 
 <p align="center">
-  <img src="screenshot.jpg" alt="Wordly Screenshot" width="320">
+  <img src="./screenshot.jpg" alt="Wordly vocabulary app screenshot" width="320">
 </p>
 
----
-
-## 🗺️ Roadmap
-
-Future improvements:
+## Roadmap
 
 - [ ] Cloud synchronization
-- [ ] More languages
-- [ ] Advanced statistics
-- [ ] Improved review algorithms
-- [ ] Import/export improvements
+- [ ] Additional languages
+- [ ] More detailed learning statistics
+- [ ] Review-system improvements
+- [ ] Improved import/export
 - [ ] More personalization options
 
----
+## Source Availability
 
-## ⚠️ Note
+This repository currently serves as a public project page and release-distribution point. **The application source code is not included in the public repository.** Source-build and developer-installation steps are therefore not provided here.
 
-Wordly is currently in its first release, so you may encounter some bugs or unexpected behavior.
+## Report an Issue
 
-If you find an issue, please report it so it can be improved in future updates.
+Report a bug or suggest an improvement through the [GitHub issue tracker](https://github.com/mrmohammad-dev/wordly-app/issues).
 
 ---
 
@@ -86,87 +68,55 @@ If you find an issue, please report it so it can be improved in future updates.
 
 ## درباره Wordly
 
-**Wordly** یک اپلیکیشن یادگیری واژگان است که برای ساده‌تر، هوشمندتر و منظم‌تر کردن یادگیری زبان طراحی شده است.
+**Wordly** اپلیکیشنی برای یادگیری واژگان است که به کاربران کمک می‌کند کلمات جدید را ذخیره کنند، در زمان‌های مناسب مرور کنند و یادگیری منظم‌تری داشته باشند.
 
-با Wordly می‌توانید کلمات جدید را ذخیره کنید، در زمان مناسب مرور کنید و با استفاده از سیستم مرور فاصله‌دار، کلمات را بهتر در حافظه بلندمدت خود ثبت کنید.
+## امکانات
 
-هدف برنامه ساده است: تمرکز روی یادگیری بدون پیچیدگی‌های اضافی.
+- مدیریت واژگان
+- سیستم مرور فاصله‌دار
+- یادآوری زمان مرور
+- تلفظ کلمات با Text-to-Speech
+- حالت روشن و تاریک
+- پشتیبانی از رابط فارسی و راست‌چین (RTL)
+- نمایش روند پیشرفت یادگیری
+- ذخیره‌سازی محلی و آفلاین
+- نسخه قابل نصب روی اندروید
 
----
+## دانلود
 
-## ✨ امکانات
+- **آخرین نسخه:** [مشاهده نسخه‌ها و توضیحات انتشار](https://github.com/mrmohammad-dev/wordly-app/releases/latest)
+- **دانلود مستقیم APK نسخه v0.2.0:** [wordly_v0.2.0.apk](https://github.com/mrmohammad-dev/wordly-app/releases/download/v0.2.0/wordly_v0.2.0.apk)
+- **همه نسخه‌ها:** [GitHub Releases](https://github.com/mrmohammad-dev/wordly-app/releases)
 
-- 📚 مدیریت واژگان
-- 🧠 سیستم یادگیری با مرور فاصله‌دار
-- ⏰ زمان‌بندی هوشمند مرور
-- 🔊 تلفظ کلمات با Text-to-Speech
-- 🔔 یادآوری مرور با اعلان‌ها
-- 🌙 حالت روشن و تاریک
-- 📱 رابط کاربری مناسب موبایل
-- 🇮🇷 پشتیبانی از رابط فارسی و RTL
-- 📊 پیگیری پیشرفت یادگیری
-- 💾 ذخیره‌سازی آفلاین
-- 🚀 تجربه Native اندروید
+برای دریافت برنامه از صفحه رسمی انتشار استفاده کنید. این برنامه هنوز در مراحل ابتدایی انتشار است و ممکن است برخی خطاها یا رفتارهای غیرمنتظره داشته باشد.
 
----
-
-## 📱 دانلود
-
-آخرین نسخه APK برنامه در بخش Releases گیت‌هاب قرار دارد.
-
-⬇️ **دانلود Wordly:**
-
-https://github.com/mrmohammaddev/wordly-app/releases
-
-فایل APK را دانلود کنید، روی دستگاه اندرویدی خود نصب کنید و یادگیری را شروع کنید.
-
----
-
-## 🖼️ تصویر برنامه
+## تصویر برنامه
 
 <p align="center">
-  <img src="screenshot.jpg" alt="تصویر Wordly" width="320">
+  <img src="./screenshot.jpg" alt="تصویر برنامه Wordly" width="320">
 </p>
 
----
-
-## 🗺️ مسیر توسعه
-
-قابلیت‌هایی که در آینده اضافه خواهند شد:
+## مسیر توسعه
 
 - [ ] همگام‌سازی ابری
-- [ ] زبان‌های بیشتر
-- [ ] آمار پیشرفته‌تر
-- [ ] بهبود الگوریتم‌های مرور
-- [ ] بهبود Import / Export
-- [ ] شخصی‌سازی بیشتر
+- [ ] افزودن زبان‌های بیشتر
+- [ ] آمار دقیق‌تر یادگیری
+- [ ] بهبود سیستم مرور
+- [ ] بهبود واردکردن و خروجی‌گرفتن از داده‌ها
+- [ ] گزینه‌های شخصی‌سازی بیشتر
+
+## وضعیت سورس
+
+این مخزن برای معرفی عمومی پروژه و انتشار نسخه‌های نصب‌شدنی استفاده می‌شود. **کد منبع برنامه در مخزن عمومی قرار ندارد.** به همین دلیل، راهنمای ساخت برنامه از سورس یا اجرای محیط توسعه در این صفحه ارائه نشده است.
+
+## گزارش مشکل یا پیشنهاد
+
+برای گزارش باگ یا پیشنهاد قابلیت جدید، یک [Issue در گیت‌هاب](https://github.com/mrmohammad-dev/wordly-app/issues) ثبت کنید.
 
 ---
 
-## ⚠️ توجه
-
-Wordly در حال حاضر در نسخه‌ی اولیه قرار دارد، بنابراین ممکن است با برخی باگ‌ها یا رفتارهای غیرمنتظره مواجه شوید.
-
-اگر مشکلی پیدا کردید، لطفاً آن را گزارش کنید تا در آپدیت‌های آینده برطرف و بهبود داده شود.
-
----
-
-# 👨‍💻 Developer
+## Developer
 
 **Mohammad Dev**
-
-Telegram:
-[@mrmohammad_dev](https://t.me/mrmohammad_dev)
-
-Built with:
-
-- React
-- TypeScript
-- Vite
-- Capacitor
-
----
-
-<p align="center">
-Made with ❤️ by Mohammad Dev
-</p>
+- Telegram: [@mrmohammad_dev](https://t.me/mrmohammad_dev)
+- Built with: React, TypeScript, Vite, Capacitor
